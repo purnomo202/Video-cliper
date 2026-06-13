@@ -1,4 +1,3 @@
-streamlit
-moviepy
-SpeechRecognition
-pydub
+moviepy==1.0.3
+SpeechRecognition==3.10.4
+pydub==0.25.1
